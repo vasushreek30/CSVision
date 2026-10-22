@@ -62,6 +62,7 @@ The application generates basic numerical insights such as:
 ---
 
 ## 📁 Project Structure
+```text
 
 CSV-Insight-Generator/
 │
@@ -78,6 +79,7 @@ CSV-Insight-Generator/
 └── sample data/
     ├── students.csv        # Sample student dataset
     └── sales.csv           # Sample sales dataset
+```
 ⚙️ How to Run Locally
 1. Clone the repository
 git clone https://github.com/YOUR-USERNAME/CSVision.git
@@ -122,6 +124,7 @@ Revenue
 Region
 
 You can also upload your own CSV files and analyze them using the application.
+``` text
 
 🔄 How CSVision Works
         CSV File
@@ -145,6 +148,7 @@ Charts  Relationships  Trends
     Insight Generation
            ↓
       Data Dashboard
+```
 📈 Example Use Cases
 
 CSVision can be useful for quickly exploring datasets such as:
