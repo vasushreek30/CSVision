@@ -63,7 +63,6 @@ The application generates basic numerical insights such as:
 
 ## 📁 Project Structure
 
-```text
 CSV-Insight-Generator/
 │
 ├── app.py                  # Main Streamlit application
@@ -174,9 +173,4 @@ Additional visualization types
 More advanced statistical analysis
 Improved error handling
 More intelligent dataset recommendations
-Cloud deployment
-👩‍💻 Author
-
-Vasushree K
-
-Engineering Student | Python | C++ | Data Analysis | Web Development
+Cloud Deployment
